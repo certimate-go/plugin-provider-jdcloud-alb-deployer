@@ -1,0 +1,16 @@
+{
+  "access_provider_type": "jdcloud",
+  "binary": "jdcloud-alb.exe",
+  "capability": "deploy",
+  "category": "loadbalance",
+  "display_name_key": "plugin.jdcloud-alb.name",
+  "icon": "jdcloud.svg",
+  "min_core_version": "",
+  "priority": 100,
+  "protocol_version": 4,
+  "provider_type": "jdcloud-alb",
+  "usages": [
+    "hosting"
+  ],
+  "version": "0.2.2"
+}
